@@ -1,4 +1,4 @@
-hello_vision_world.py
+Hello Vision World
 
 Write an OpenCV program to do the following things:
 
